@@ -1,0 +1,100 @@
+nama_provinsi,tahun,jumlah_penderita,jumlah_meninggal,cfr
+Prov. Nanggroe Aceh Darussalam,2010,121,3,2.4793388
+Prov. Nanggroe Aceh Darussalam,2011,40,2,5
+Prov. Nanggroe Aceh Darussalam,2012,0,0,0
+Prov. Sumatera Utara,2010,0,0,0
+Prov. Sumatera Utara,2011,0,0,0
+Prov. Sumatera Utara,2012,241,2,0.82987552
+Prov. Sumatera Barat,2010,51,0,0
+Prov. Sumatera Barat,2011,0,0,0
+Prov. Sumatera Barat,2012,274,6,2.189781
+Prov. Riau,2010,116,1,0.86206897
+Prov. Riau,2011,163,2,1.23
+Prov. Riau,2012,0,0,0
+Prov. Jambi,2010,0,0,0
+Prov. Jambi,2011,0,0,0
+Prov. Jambi,2012,0,0,0
+Prov. Sumatera Selatan,2010,0,0,0
+Prov. Sumatera Selatan,2011,0,0,0
+Prov. Sumatera Selatan,2012,292,8,2.739726
+Prov. Bengkulu,2010,0,0,0
+Prov. Bengkulu,2011,0,0,0
+Prov. Bengkulu,2012,0,0,0
+Prov. Lampung,2010,0,0,0
+Prov. Lampung,2011,33,0,0
+Prov. Lampung,2012,16,0,0
+Prov. Kepulauan Bangka Belitung,2010,0,0,0
+Prov. Kepulauan Bangka Belitung,2011,0,0,0
+Prov. Kepulauan Bangka Belitung,2012,0,0,0
+Prov. Kepulauan Riau,2010,0,0,0
+Prov. Kepulauan Riau,2011,1426,2,0.14
+Prov. Kepulauan Riau,2012,74,0,0
+Prov. DKI Jakarta,2010,0,0,0
+Prov. DKI Jakarta,2011,0,0,0
+Prov. DKI Jakarta,2012,0,0,0
+Prov. Jawa Barat,2010,1068,5,0.46816479
+Prov. Jawa Barat,2011,229,1,0.44
+Prov. Jawa Barat,2012,38,0,0
+Prov. Jawa Tengah,2010,35,1,2.8571429
+Prov. Jawa Tengah,2011,153,0,0
+Prov. Jawa Tengah,2012,167,2,1.1976048
+Prov. D I Yogyakarta,2010,0,0,0
+Prov. D I Yogyakarta,2011,0,0,0
+Prov. D I Yogyakarta,2012,75,1,1.3333333
+Prov. Jawa Timur,2010,1181,12,1.0160881
+Prov. Jawa Timur,2011,32,0,0
+Prov. Jawa Timur,2012,81,0,0
+Prov. Banten,2010,385,3,0.77922078
+Prov. Banten,2011,268,1,0.37
+Prov. Banten,2012,84,0,0
+Prov. Bali,2010,0,0,0
+Prov. Bali,2011,0,0,0
+Prov. Bali,2012,22,0,0
+Prov. Nusa Tenggara Barat,2010,0,0,0
+Prov. Nusa Tenggara Barat,2011,0,0,0
+Prov. Nusa Tenggara Barat,2012,0,0,0
+Prov. Nusa Tenggara Timur,2010,0,0,0
+Prov. Nusa Tenggara Timur,2011,50,0,0
+Prov. Nusa Tenggara Timur,2012,12,0,0
+Prov. Kalimantan Barat,2010,0,0,0
+Prov. Kalimantan Barat,2011,0,0,0
+Prov. Kalimantan Barat,2012,0,0,0
+Prov. Kalimantan Tengah,2010,0,0,0
+Prov. Kalimantan Tengah,2011,179,0,0
+Prov. Kalimantan Tengah,2012,0,0,0
+Prov. Kalimantan Selatan,2010,0,0,0
+Prov. Kalimantan Selatan,2011,0,0,0
+Prov. Kalimantan Selatan,2012,0,0,0
+Prov. Kalimantan Timur,2010,0,0,0
+Prov. Kalimantan Timur,2011,0,0,0
+Prov. Kalimantan Timur,2012,0,0,0
+Prov. Sulawesi Utara,2010,0,0,0
+Prov. Sulawesi Utara,2011,121,0,0
+Prov. Sulawesi Utara,2012,0,0,0
+Prov. Sulawesi Tengah,2010,817,30,3.6719706
+Prov. Sulawesi Tengah,2011,57,2,3.51
+Prov. Sulawesi Tengah,2012,97,1,1.0309278
+Prov. Sulawesi Selatan,2010,169,4,2.3668639
+Prov. Sulawesi Selatan,2011,0,0,0
+Prov. Sulawesi Selatan,2012,0,0,0
+Prov. Sulawesi Tenggara,2010,0,0,0
+Prov. Sulawesi Tenggara,2011,36,1,2.78
+Prov. Sulawesi Tenggara,2012,52,0,0
+Prov. Gorontalo,2010,0,0,0
+Prov. Gorontalo,2011,13,1,7.69
+Prov. Gorontalo,2012,0,0,0
+Prov. Sulawesi Barat,2010,0,0,0
+Prov. Sulawesi Barat,2011,203,0,0
+Prov. Sulawesi Barat,2012,0,0,0
+Prov. Maluku,2010,0,0,0
+Prov. Maluku,2011,0,0,0
+Prov. Maluku,2012,0,0,0
+Prov. Maluku Utara,2010,0,0,0
+Prov. Maluku Utara,2011,0,0,0
+Prov. Maluku Utara,2012,0,0,0
+Prov. Papua Barat,2010,37,8,21.621622
+Prov. Papua Barat,2011,0,0,0
+Prov. Papua Barat,2012,0,0,0
+Prov. Papua,2010,224,6,2.6785714
+Prov. Papua,2011,0,0,0
+Prov. Papua,2012,60,3,5
